@@ -1,5 +1,5 @@
 /*CSS DOCUMENT*/
-  @import url("https://use.typekit.net/vpc6jnr.css");
+  @import url("https://use.typekit.net/lck5ubd.css");
 
 html, body, div, span, applet, object, iframe,h1, h2, h3, h4, h5, h6, p, blockquote, pre,a, abbr, acronym, address, big, cite, code,del, dfn, em, img, ins, kbd, q, s, samp,small, strike, strong, sub, sup, tt, var,b, u, i, center,dl, dt, dd, ol, ul, li,fieldset, form, label, legend,table, caption, tbody, tfoot, thead, tr, th, td,article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary,time, mark, audio, video {margin: 0;	padding: 0;	border: 0;	vertical-align: baseline;} 
 
@@ -15,7 +15,7 @@ img {
 h1 {
     color:#ff7d19;
     font-size: 3em;
-    font-family: caecilia-sans-head, sans-serif;
+    font-family: grange-extended, serif;
     font-weight: 900;
     font-style: normal;
     text-transform: full-width;
@@ -36,7 +36,7 @@ h2 {
 h3 {
     color: #4c944c;
     font-size: 1.3em;
-    font-family: caecilia-sans-head, sans-serif;
+    font-family: calibri, sans-serif;
     font-weight: 700;
     font-style: normal;
     line-height: 3em;
