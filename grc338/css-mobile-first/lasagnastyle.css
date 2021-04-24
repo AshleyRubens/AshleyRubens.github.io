@@ -1,5 +1,5 @@
 /*CSS DOCUMENT*/
-  @import url("https://use.typekit.net/lck5ubd.css");
+  @import url("https://use.typekit.net/bab2nab.css");
 
 html, body, div, span, applet, object, iframe,h1, h2, h3, h4, h5, h6, p, blockquote, pre,a, abbr, acronym, address, big, cite, code,del, dfn, em, img, ins, kbd, q, s, samp,small, strike, strong, sub, sup, tt, var,b, u, i, center,dl, dt, dd, ol, ul, li,fieldset, form, label, legend,table, caption, tbody, tfoot, thead, tr, th, td,article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary,time, mark, audio, video {margin: 0;	padding: 0;	border: 0;	vertical-align: baseline;} 
 
@@ -15,7 +15,7 @@ img {
 h1 {
     color:#ff7d19;
     font-size: 3em;
-    font-family: grange-extended, serif;
+    font-family: "aileron", sans-serif;
     font-weight: 900;
     font-style: normal;
     text-transform: full-width;
@@ -28,7 +28,7 @@ h1 {
 h2 {
     color: #cf4829;
     font-size: 1.3em;
-    font-family: Perpetua;
+    font-family: "aileron", sans-serif;
     text-align: center;
     padding: 1em;
 }
@@ -36,7 +36,7 @@ h2 {
 h3 {
     color: #4c944c;
     font-size: 1.3em;
-    font-family: calibri, sans-serif;
+    font-family: "aileron", sans-serif;
     font-weight: 700;
     font-style: normal;
     line-height: 3em;
@@ -49,7 +49,7 @@ p {
     color: #cf4829;
     font-size: 1em;
     line-height: 1em;
-    font-family: calibri, sans-serif;
+    font-family: "aileron", sans-serif;
     font-weight: 300;
     font-style: normal;
     
@@ -58,7 +58,7 @@ p {
 h6 {
     color: #cf4829;
     font-size: .8em;
-    font-family: calibri, sans-serif;
+    font-family: "aileron", sans-serif;
     font-weight: 300;
     font-style: normal;
     padding-top: 1em;
@@ -67,7 +67,7 @@ h6 {
 }
 
 ul {
-    font-family: calibri, sans-serif;
+    font-family: "aileron", sans-serif;
     font-weight: 300;
     font-style: normal;
     color: #cf4829;
@@ -79,7 +79,7 @@ ul {
 figcaption {
     color: #cf4829;
     padding-left: 1.5em;
-    font-family: calibri, sans-serif;
+    font-family: "aileron", sans-serif;
     font-weight: 300;
     font-style: normal;
     padding-top: 1em;
@@ -89,7 +89,7 @@ figcaption {
 
 ol {
     padding-left: 2em;
-    font-family: calibri, sans-serif;
+    font-family: "aileron", sans-serif;
     font-weight: 300;
     font-style: normal;
     color: #cf4829;
