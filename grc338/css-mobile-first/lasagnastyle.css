@@ -49,7 +49,7 @@ p {
     color: #cf4829;
     font-size: 1em;
     line-height: 1em;
-    font-family: tondo, sans-serif;
+    font-family: calibri, sans-serif;
     font-weight: 300;
     font-style: normal;
     
@@ -58,7 +58,7 @@ p {
 h6 {
     color: #cf4829;
     font-size: .8em;
-    font-family: tondo, sans-serif;
+    font-family: calibri, sans-serif;
     font-weight: 300;
     font-style: normal;
     padding-top: 1em;
@@ -67,7 +67,7 @@ h6 {
 }
 
 ul {
-    font-family: tondo, sans-serif;
+    font-family: calibri, sans-serif;
     font-weight: 300;
     font-style: normal;
     color: #cf4829;
@@ -79,7 +79,7 @@ ul {
 figcaption {
     color: #cf4829;
     padding-left: 1.5em;
-    font-family: tondo, sans-serif;
+    font-family: calibri, sans-serif;
     font-weight: 300;
     font-style: normal;
     padding-top: 1em;
@@ -89,7 +89,7 @@ figcaption {
 
 ol {
     padding-left: 2em;
-    font-family: tondo, sans-serif;
+    font-family: calibri, sans-serif;
     font-weight: 300;
     font-style: normal;
     color: #cf4829;
