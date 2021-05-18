@@ -21,7 +21,12 @@ h2{
 h3 {
   color: rgb(149, 191, 166);
   font-family:montserrat, sans-serif;
+  font-size: 1.5em;
+}
 
+h4 {
+  color: rgb(149, 191, 166);
+  font-family:montserrat, sans-serif;
   font-size: 1.5em;
 }
 
@@ -31,16 +36,6 @@ p{
 
 figure{
   margin: 0;
-}
-
-.description {
-  font-family: montserrat, sans-serif;
-}
-
-.price{
-  color: rgb(149, 191, 166);
-  font-family:montserrat, sans-serif;;
-  font-style: bold;
 }
 
 section.menu ul {
