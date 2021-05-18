@@ -48,9 +48,9 @@ img {
 
 
 nav ul li {
-      list-style: none;
-      display: inline;
-      margin-right: 1em;
+    display: inline;
+	list-style-type: none;
+	letter-spacing: 0.05em;
 }
 
 nav ul li a {
