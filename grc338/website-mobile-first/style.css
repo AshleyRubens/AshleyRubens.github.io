@@ -1,90 +1,72 @@
 /*CSS DOCUMENT*/
 
 img {
-    width: 100% 
+    width: 100%; /*Please leave this line.*/
 }
-
 body {
-	font-family: montserrat, sans-serif;
-	font-weight: 400;
-	font-style: normal;
-	background-color: rgb(255, 255, 255);
-	margin: 0em 1em 0em 1em;
+  background-color: rgb(255, 255, 255);
+  padding: 1em;
 }
 
-div.container {
-	max-width: 60em;
-	margin: auto;
+header img {
+  width: 23%;
 }
 
-h1 a img {
-	width: 20%;
-	padding: 0.5em 1em 0.5em 1em;
-}
-
-nav ul { 
-	padding: 0em 0em 1em 0em; 
-} 
-
-nav ul li {
-	display: inline;
-	list-style-type: none;
-	letter-spacing: 0.05em; 
-} 
-
-nav ul li a { 
-	text-decoration: none;
-	color: rgb(149, 191, 166);
-	font-family: montserrat, sans-serif;
-	font-weight: 500;
-	font-style: normal;
-	text-transform: uppercase;
-} 
-
-nav ul li a:hover { 
-	color: rgb(149, 191, 166);
-} 
-
-h2 {
-	font-family: montserrat, sans-serif;
-	font-weight: 700;
-	font-style: normal;
-	font-size: 2.5em;
-	margin: 0.5em 0em 0.5em 0em;
-	color: rgb(229, 190, 237);
-}
-
-figure {
-	padding-bottom: 1em;
+h2{
+  color: rgb(229, 190, 237);
+  font-family: montserrat, sans-serif;
+  font-size: 2.5em;
 }
 
 h3 {
-	color: rgb(149, 191, 166);
-      font-size: 1.3em;
-      font-family: montserrat, sans-serif;
-      font-style: normal;
+  color: rgb(149, 191, 166);
+  font-family:montserrat, sans-serif;
+
+  font-size: 1.5em;
 }
 
-ul {
-	padding-bottom: 1em;
+p{
+  padding: 0;
 }
 
-li {
-	list-style-type: none;
-	margin-left: 2em;
+figure{
+  margin: 0;
 }
 
-
-p {
-	margin-top: 0.25em;
+.description {
+  font-family: montserrat, sans-serif;
 }
 
-p.description {
-	margin-bottom: 2em;
+.price{
+  color: rgb(149, 191, 166);
+  font-family:montserrat, sans-serif;;
+  font-style: bold;
 }
 
-p.price {
-	font-family: montserrat, sans-serif;
-	font-weight: 300;
-	margin-bottom: 1.25em;
+section.menu ul {
+  padding: 0;
 }
+
+ nav ul {
+  padding: 0.5em;
+  margin-bottom: 1.5em;
+  word-spacing: 0.8em;
+  font-size: 1.5em;
+ }
+ nav ul li {
+  display: inline;
+  list-style-type: none;
+  font-family: montserrat, sans-serif;
+  text-transform: uppercase;
+  font-weight: 800;
+  letter-spacing: 0.07em;
+ }
+
+ nav ul li a{
+   text-decoration: none;
+   color: #82B298;
+ }
+
+ nav ul li a:hover{
+   color: #82B298;
+ }
