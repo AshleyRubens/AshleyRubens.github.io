@@ -8,30 +8,35 @@ body {
   padding: 1em;
 }
 
-header img {
-  width: 23%;
+h1 {  
+      color: rgb(229, 190, 237);
+      font-size: 3em;
+      padding: none;
+      font-family: gautreaux, sans-serif;
+      font-style: normal;
+      font-weight: 500;
 }
 
-h2{
-  color: rgb(229, 190, 237);
-  font-family: montserrat, sans-serif;
-  font-size: 2.5em;
+h2 {
+      color:rgb(229, 190, 237);
+      font-size: 1.75em;
+      font-family: gautreaux, sans-serif;
+      font-style: normal;
+      font-weight: 500;
 }
 
 h3 {
-  color: rgb(149, 191, 166);
-  font-family: montserrat, sans-serif;
-  font-size: 1.5em;
+      color: rgb(149, 191, 166);
+      font-size: 1.3em;
+      font-family: montserrat, sans-serif;
+      font-style: normal;
 }
 
-h4 {
-  color: rgb(149, 191, 166);
-  font-family:montserrat, sans-serif;
-  font-size: 1.5em;
-}
-
-p{
-  padding: 0;
+p {   
+      font-family: montserrat, sans-serif;
+      font-weight: 200;
+      font-style: normal;
+      max-width: 35em
 }
 
 figure{
