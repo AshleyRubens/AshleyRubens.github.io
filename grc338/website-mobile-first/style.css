@@ -1,67 +1,90 @@
 /*CSS DOCUMENT*/
 
-body { 
-      background-color: rgb(255, 255, 255);
-}
-
-h1 {  
-      color: rgb(229, 190, 237);
-      font-size: 3em;
-      padding: none;
-      font-family: montserrat, sans-serif;
-      font-style: normal;
-      font-weight: 500;
-}
-
-h2 {
-      color:rgb(229, 190, 237);
-      font-size: 1.75em;
-      font-family: montserrat, sans-serif;
-      font-style: normal;
-      font-weight: 500;
-}
-
-h3 {
-      color: rgb(149, 191, 166);
-      font-size: 1.3em;
-      font-family: montserrat, sans-serif;
-      font-style: normal;
-}
-
-p {   
-      font-family: montserrat, sans-serif;
-      font-weight: 200;
-      font-style: normal;
-      max-width: 35em
-}
-
-@media only screen and (min-width:25em){
-    p {
-        width: 45%;
-    }
-}
-
 img {
-      width: 100%;
-      margin-top: 1em;
+    width: 100% 
 }
 
-
-nav ul li {
-    display: inline;
-	list-style-type: none;
-	letter-spacing: 0.05em;
-}
-
-nav ul li a {
-      text-decoration:none;
-      color: rgb(149, 191, 166);
-      font-family: montserrat, sans-serif;
-      font-weight: 200;
-      font-style: normal;
+body {
+	font-family: montserrat, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	background-color: rgb(255, 255, 255);
+	margin: 0em 1em 0em 1em;
 }
 
 div.container {
 	max-width: 60em;
 	margin: auto;
+}
+
+h1 a img {
+	width: 20%;
+	padding: 0.5em 1em 0.5em 1em;
+}
+
+nav ul { 
+	padding: 0em 0em 1em 0em; 
+} 
+
+nav ul li {
+	display: inline;
+	list-style-type: none;
+	letter-spacing: 0.05em; 
+} 
+
+nav ul li a { 
+	text-decoration: none;
+	color: rgb(149, 191, 166);
+	font-family: montserrat, sans-serif;
+	font-weight: 500;
+	font-style: normal;
+	text-transform: uppercase;
+} 
+
+nav ul li a:hover { 
+	color: rgb(149, 191, 166);
+} 
+
+h2 {
+	font-family: montserrat, sans-serif;
+	font-weight: 700;
+	font-style: normal;
+	font-size: 2.5em;
+	margin: 0.5em 0em 0.5em 0em;
+	color: rgb(229, 190, 237);
+}
+
+figure {
+	padding-bottom: 1em;
+}
+
+h3 {
+	color: rgb(149, 191, 166);
+      font-size: 1.3em;
+      font-family: montserrat, sans-serif;
+      font-style: normal;
+}
+
+ul {
+	padding-bottom: 1em;
+}
+
+li {
+	list-style-type: none;
+	margin-left: 2em;
+}
+
+
+p {
+	margin-top: 0.25em;
+}
+
+p.description {
+	margin-bottom: 2em;
+}
+
+p.price {
+	font-family: montserrat, sans-serif;
+	font-weight: 300;
+	margin-bottom: 1.25em;
 }
