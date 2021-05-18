@@ -1,11 +1,9 @@
-
-
-
 /*CSS DOCUMENT*/
 
 img {
-    width: 100%; /*Please leave this line.*/
+    width: 100%;
 }
+
 body {
   background-color: rgb(255, 255, 255);
   padding: 1em;
@@ -15,7 +13,7 @@ h1 {
       color: rgb(229, 190, 237);
       font-size: 3em;
       padding: none;
-      font-family: gautreaux, sans-serif;
+      font-family: montserrat, sans-serif;
       font-style: normal;
       font-weight: 500;
 }
@@ -23,9 +21,10 @@ h1 {
 h2 {
       color:rgb(229, 190, 237);
       font-size: 1.75em;
-      font-family: gautreaux, sans-serif;
+      font-family: montserrat, sans-serif;
       font-style: normal;
       font-weight: 500;
+    
 }
 
 h3 {
@@ -33,6 +32,7 @@ h3 {
       font-size: 1.3em;
       font-family: montserrat, sans-serif;
       font-style: normal;
+      font-weight: 500;
 }
 
 p {   
