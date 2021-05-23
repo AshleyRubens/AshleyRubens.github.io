@@ -2,12 +2,12 @@
 
 @import url("https://use.typekit.net/mwu5zhk.css")
 
-img {
+@img {
     width: 100%;
 }
 
 div.spread {
-    width: 90%;
+    max-width: 40em;
     margin: auto;
 }
 
