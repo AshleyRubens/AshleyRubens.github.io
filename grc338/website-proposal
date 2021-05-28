@@ -1,0 +1,128 @@
+<!doctype html>  
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+         <link rel="stylesheet" type="text/css" href="https://grc-ribeiro.github.io/files/proposal.css">
+        <title>Ashley Rubens - Final project proposal</title>
+    </head>
+    <body>
+    
+        <div class="container">
+        
+            <h1>Final project proposal</h1>
+            
+            <h2>Introduction</h2>
+            
+            <p>Enigma Footwear</p>
+            
+            <p>Enigma Footwear is a small shoe boutique located in Beverly Hills, California. Our store is located in the heart of Los Angeles and offers a variety of one of a kind shoe designs. Enigma Footwear is exclusively sold at our location and is guaranteed to transform any outfit.</p><!--Short description of the company-->
+            
+            <h2>Target audience</h2>
+            
+            <p>Enigma Footwear offers shoes for both men and women, and is for anyone looking to expand their shoe collection and elevate their look.</p>
+            
+            <h2>Comparative analysis</h2>
+            
+            <h3>Golden Goose</h3>
+           
+            <p><a href="https://www.goldengoose.com/">goldengoose.com</a></p>
+            
+            <img src="goldengoose.png" alt="Screenshot of the home page of the goldengoose website." title="" />
+            
+            <img src="goldengoose1.png" alt="Screenshot of sneaker page of the goldengoose website." title="" />
+
+            <h3>Sam Edelman</h3>
+           
+            <p><a href="https://www.samedelman.com/">samedelman.com</a></p>
+
+            <img src="samedelman.png" alt="Screenshot of the home page of the samedelman website." title="" />
+             
+            <img src="samedelman1.png" alt="Screenshot of the heel page of the samedelman website." title="" />
+
+
+            <h3>Jeffrey Campbell</h3>
+           
+            <p><a href="https://www.jeffreycampbellshoes.com/">jeffreycampbell.com</a></p>
+            
+            <img src="jeffreycampbell.png" alt="Screenshot of the home page of the jeffreycampbell website." title="" />
+            
+            <img src="jeffreycampbell1.png" alt="Screenshot of the flat page of the jeffreycampbell website." title="" />
+
+
+            <h2>Website content</h2>
+           
+           <nav> 
+                 <ul>
+                    <li>Home</li>
+                    <li>Shop</li>
+                    <li>About Us</li>
+                    <li>Contact</li>
+                </ul>
+            </nav>
+            
+            <section> 
+            
+					<h1> Home </h1>
+				
+					<p>At Enigma Footwear we think shoes are the most important element of any outfit. Beyond their practicality, a pair of shoes can completely elevate any look. No matter who you are or what you do, Enigma Footwear will be a perfect fit. We offer all sizes in every style and gaufrette a comfortable fit. Come in today and find your sole mate.</p>
+					<p> [Photo of model wearing shoes.] </p>
+
+            </section>
+            
+            <section> 
+            
+					<h1> Shop </h1>
+				
+					<p>Enigma Footwear offers a variety of different styles and designs. Shop below and find your sole mate.</p>
+                    <p>[Images of different shoe styles.]
+
+                    <ul>
+                        <li>
+                            <h2>Heels</h2>
+                        </li>
+                    </ul>
+                    <ul>
+                        <li>
+                            <h2>Sneakers</h2>
+                        </li>
+                    </ul>
+                    <ul>
+                        <li>
+                            <h2>Flats</h2>
+                        </li>
+                    </ul>
+			  
+				
+            </section> 
+
+            <section>  
+
+                    <h1> About Us </h1>
+                
+                    <p>Enigma Footwear was founded by Ashley Rubens and established in 2021. Rubens has had an obsession and passion for shoes from a young age. She strongly believes that a pair of shoes has the ability to completely transform any outfit. Enigma Footwear offers unique designs that compliment any closet. No matter who you are or what you do, Enigma Footwear will be a perfect fit.</p>
+              
+                    <p>[Photo of shoes.]</p>
+                
+            </section> 
+
+            <section> 
+            
+                    <h1>Contact</h1>
+                    <p>For any questions about Enigma Footwear, feel free to contact us.</p>
+                    <p>(310) 273-4787</p>
+                    <p>enigmaBH@gmail.com</p>
+                    
+                    <h2>Come Visit Us</h2>
+                    <p>9630 Brighton Way, Beverly Hills, CA 90210</p>
+
+                    <p> [Map of Los Angeles.] </p>
+
+                    <h2>Hours of Operation</h2>
+                    <p>10am — 5pm</p>
+                
+            </section> 
+        
+        </div>
+    </body>
+</html>
